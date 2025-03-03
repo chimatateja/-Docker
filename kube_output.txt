@@ -1,0 +1,5 @@
+NAME                                            READY   STATUS             RESTARTS   AGE
+docker-assignment-deployment-6cb7684686-6lvsd   0/1     ImagePullBackOff   0          131d
+docker-assignment-deployment-6cb7684686-f6grt   0/1     ImagePullBackOff   0          131d
+text-processor-deployment-7d9d57869b-n24hc      0/1     Pending            0          0s
+text-processor-deployment-7d9d57869b-rxt56      0/1     Pending            0          0s
